@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://tenor.com/view/programming-gif-24916992" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashokreddy907&show_icons=true&locale=en" alt="ashokreddy907" /></p>
+<p>&nbsp;<img align="center" src="https://tenor.com/view/programming-gif-24916992" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashokreddy907&" alt="ashokreddy907" /></p>
