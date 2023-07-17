@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Somula Ashok Reddy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>\
+<h3 align="center">A passionate frontend developer from India</h3>
+
+
+<h3 align="center">🤝 Looking for opportunities to contribute to open source projects, work on exciting new technologies, and learn from other talented engineers 👩‍💻👨‍💻.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashokreddy907&label=Profile%20views&color=0e75b6&style=flat" alt="ashokreddy907" /> </p>
 
